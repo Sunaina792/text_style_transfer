@@ -34,7 +34,7 @@ The system leverages **pre-trained transformer-based models** from Hugging Face 
 
 
 ### To Formal Language
-![To Formal](to_formal.png)
+![To Formal](formal.png)
 
 ---
 ## 📋 Requirements
@@ -196,5 +196,6 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ## 👩‍💻 Author
 
 **Sunaina**
+
 
 
