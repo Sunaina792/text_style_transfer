@@ -27,7 +27,16 @@ The system leverages **pre-trained transformer-based models** from Hugging Face 
   Can be run locally or deployed to cloud platforms.
 
 ---
+## Demo
 
+### To Gen Z Slang
+![To Gen Z](to_genz.png)
+
+
+### To Formal Language
+![To Formal](to_formal.png)
+
+---
 ## 📋 Requirements
 
 * Python 3.8 or higher
@@ -187,4 +196,5 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ## 👩‍💻 Author
 
 **Sunaina**
+
 
