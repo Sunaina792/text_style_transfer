@@ -8,7 +8,9 @@ This project is a **Text Style Transfer web application** that transforms input 
 The system leverages **pre-trained transformer-based models** from Hugging Face and also includes experimentation with **custom-trained RNN and LSTM models on a proprietary dataset**, providing a comparative study of traditional and modern NLP approaches.
 
 ---
-
+## Project Architecture
+![architecture](architecture.jpeg)
+---
 ## 🚀 Features
 
 * **Gen Z Slang Conversion**
@@ -196,6 +198,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ## 👩‍💻 Author
 
 **Sunaina**
+
 
 
 
